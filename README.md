@@ -1,9 +1,13 @@
 ANSIBLE ROLE : XL DEPLOY
 =========
 
-This ansible role is to create an CentOS and configures xl-deploy.
+This ansible role will create an CentOS and configures xl-deploy on aws ec2 instance.  
 
-[![Build Status](https://travis-ci.org/hemanth22/ansible-role-xldeploy.svg?branch=master)](https://travis-ci.org/hemanth22/ansible-role-xldeploy)
+[![Build Status](https://travis-ci.org/hemanth22/ansible-role-xldeploy.svg?branch=master)](https://travis-ci.org/hemanth22/ansible-role-xldeploy)  
+
+default Username: admin  
+default Password: password  
+default Port: 4516  
 
 Requirements
 ------------
